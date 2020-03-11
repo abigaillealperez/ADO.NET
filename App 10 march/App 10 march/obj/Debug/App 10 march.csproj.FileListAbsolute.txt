@@ -1,0 +1,14 @@
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\bin\Debug\App 10 march.exe.config
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\bin\Debug\App 10 march.exe
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\bin\Debug\App 10 march.pdb
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App 10 march.csprojAssemblyReference.cache
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\MainWindow.g.cs
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App.g.cs
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App 10 march_MarkupCompile.cache
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App 10 march_MarkupCompile.lref
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\MainWindow.baml
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App 10 march.g.resources
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App_10_march.Properties.Resources.resources
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App 10 march.csproj.GenerateResource.cache
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App 10 march.exe
+C:\01ALP\00000 3 MODULE\App 10 march\App 10 march\obj\Debug\App 10 march.pdb
